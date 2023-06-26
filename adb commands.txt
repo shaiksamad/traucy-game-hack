@@ -1,0 +1,1 @@
+to get screencap data - cmd(adb shell /system/bin/screencap -p)

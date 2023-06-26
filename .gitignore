@@ -1,0 +1,4 @@
+*.py
+!traucy.py
+.idea
+venv
